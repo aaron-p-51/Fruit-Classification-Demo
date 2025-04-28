@@ -1,5 +1,6 @@
 ipykernel
 python-dotenv
+python==3.10
 numpy==1.23.5
 scikit-learn==1.2.2
 pillow==9.4.0
